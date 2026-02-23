@@ -6,6 +6,7 @@ var namespace_p4 =
     [ "DPDK", "namespace_p4_1_1_d_p_d_k.html", "namespace_p4_1_1_d_p_d_k" ],
     [ "EBPF", "namespace_p4_1_1_e_b_p_f.html", "namespace_p4_1_1_e_b_p_f" ],
     [ "graphs", "namespace_p4_1_1graphs.html", "namespace_p4_1_1graphs" ],
+    [ "IR", "namespace_p4_1_1_i_r.html", "namespace_p4_1_1_i_r" ],
     [ "literals", "namespace_p4_1_1literals.html", [
       [ "operator\"\"_cs", "namespace_p4_1_1literals.html#a41de57cd942d16bef1f63b84eb2592ef", null ]
     ] ],
@@ -309,6 +310,7 @@ var namespace_p4 =
     [ "MatchActionTableMetrics", "namespace_p4.html#struct_p4_1_1_match_action_table_metrics", null ],
     [ "MatchActionTableMetricsPass", "class_p4_1_1_match_action_table_metrics_pass.html", null ],
     [ "MatchRegister", "class_p4_1_1_match_register.html", "class_p4_1_1_match_register" ],
+    [ "MatchRegisterSpec", "class_p4_1_1_match_register_spec.html", null ],
     [ "MethodInstance", "class_p4_1_1_method_instance.html", "class_p4_1_1_method_instance" ],
     [ "Metrics", "namespace_p4.html#struct_p4_1_1_metrics", null ],
     [ "MetricsPassManager", "class_p4_1_1_metrics_pass_manager.html", null ],
@@ -647,6 +649,6 @@ var namespace_p4 =
     [ "dpdk_max_operand_size", "namespace_p4.html#a0e819dcdecc9b11a4df0244d8657256b", null ],
     [ "initial_member_id", "namespace_p4.html#a889852f6d7d3bfe21afbba8d4b86b581", null ],
     [ "outOfBoundsStateName", "namespace_p4.html#a132e88585329b8dba66c10b61d5bab01", null ],
-    [ "p4includePath", "namespace_p4.html#a563b674ae27014545a4c213790c2fbf6", null ],
+    [ "p4includePath", "namespace_p4.html#aeb68fd52131748ab61dbe357d0a70e6a", null ],
     [ "table_handle_prefix", "namespace_p4.html#a1c25849ac917e7b9f22873a29cc6c91b", null ]
 ];
